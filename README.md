@@ -1,5 +1,3 @@
-**Happy to see you here!** :star_struck: <br>
-
 I am currently a systems development analyst at [**Grupo Raotes**](https://github.com/GrupoRaotes). Today I work with Front-End and Back-End.
 
 I am one of the owners of the blog [**Options Tech**](https://optionstech.com.br/) where we post content about programming and technology tips
@@ -17,7 +15,7 @@ I am one of the owners of the blog [**Options Tech**](https://optionstech.com.br
   </table>
 </center>
 
-**Languages and Tools:**
+**Languages and Tools:** <br>
 <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
 </code>
