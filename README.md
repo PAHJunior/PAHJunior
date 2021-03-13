@@ -22,6 +22,7 @@ I am one of the owners of the blog [**Options Tech**](https://optionstech.com.br
 ![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?flat&logo=postgresql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
 
 <!--
 **PAHJunior/PAHJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
