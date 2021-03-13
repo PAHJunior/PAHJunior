@@ -4,8 +4,8 @@ I am currently a systems development analyst at [**Grupo Raotes**](https://githu
 
 I am one of the owners of the blog [**Options Tech**](https://optionstech.com.br/) where we post content about programming and technology tips
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PAHJunior&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAHJunior&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PAHJunior&show_icons=true&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PAHJunior&layout=compact&theme=radical)
 
 **Languages and Tools:**
 <code>
