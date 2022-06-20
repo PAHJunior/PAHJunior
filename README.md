@@ -1,4 +1,4 @@
-I am currently a systems development analyst at [**Grupo Raotes**](https://gruporaotes.com.br/). Today I work with Front-End and Back-End.
+I am currently a systems development analyst at [**Gorila**](https://gorila.com.br/). Today I work with Front-End and Back-End.
 
 <center>
   <table>
